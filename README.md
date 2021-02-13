@@ -1,4 +1,4 @@
-It is English to Hindi Translation , in which I have recorded my own voice , because pronunciation of google and native hindi speaker is different .
+It is English to Hindi Translation android application , in which I have recorded my own voice , because pronunciation of google and native hindi speaker is different .
 
 ![](https://user-images.githubusercontent.com/46338841/107840302-b232c500-6dd7-11eb-908e-6367bfc2e8de.jpg)
 ![](https://user-images.githubusercontent.com/46338841/107840301-afd06b00-6dd7-11eb-88f1-1afae0fdf223.jpg)
